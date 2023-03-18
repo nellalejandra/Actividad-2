@@ -1,0 +1,41 @@
+body {
+    background-image: url(../Imagenes/fondo\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+}
+
+iframe {
+    padding: 30px;
+}
+
+div h2 {
+    color: rgb(18, 143, 154)
+}
+
+footer {
+    width: 100%;
+
+    ;
+}
+
+footer div div p {
+    color: rgb(18, 143, 154);
+    font-size: small;
+    font-weight: 400
+}
+
+footer div div h2 {
+    color: rgb(18, 143, 154);
+    font-size: medium;
+}
+
+footer div div a {
+    color: rgb(18, 143, 154);
+    font-weight: 400;
+    font-size: small;
+}
+
+div img {
+    padding: 0px;
+}
